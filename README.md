@@ -1,4 +1,12 @@
 # Homework 1 - Solutions
+
+--------------------------
+IMPORTANT
+--------------------------
+
+Notice that the solutions provided are simply an example of how the exercises might have been solved. Equivalent solutions will get full mark as well.
+
+--------------------------
  
 The homework was due on Thursday the 4th of November at 4:00 pm. 
 
