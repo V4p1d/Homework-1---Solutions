@@ -1,8 +1,8 @@
-# Homework 1
+# Homework 1 - Solutions
  
-The homework is due on Thursday the 4th of November at 4:00 pm. 
+The homework was due on Thursday the 4th of November at 4:00 pm. 
 
-The topics that you will be assessed on are:
+The topics of the homework are:
 
 - Assignment of variables
 - Types of variables
